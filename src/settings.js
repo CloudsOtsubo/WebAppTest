@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/Test/TestScenes/00_TestMenu.fire",orientation:"portrait",jsList:["assets/Lib/cryptico/cryptico.js","assets/Lib/cryptico/cryptico.min.js"]};
